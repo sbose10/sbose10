@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **sbose10/sbose10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -8,4 +7,4 @@
 - 📫 How to reach me: sonita.bose@gmail.com
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: ...
--->
+
