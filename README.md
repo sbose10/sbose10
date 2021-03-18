@@ -2,15 +2,23 @@
 
 ## Former Software Engineer at Hewlett Packard Enterprise
 
+<img align="right" width="200" height="200" src="https://media2.giphy.com/media/VIKOfvqJHcVDrdVivT/giphy.gif?cid=ecf05e47870j587yg2c6cqcyvfhbyqooy3jx9ahj1utld4ld&rid=giphy/150/150">
+
 ### Contact
 - 📫 How to reach me: sonita.bose@gmail.com
 - :globe_with_meridians:https://www.linkedin.com/in/sonita-bose/
 - 😄 Pronouns: she/her/hers
 
 ### Education
+#### Masters
 - :woman_student:Illinois Institute of Technology 
 - :books: Information Technology and Management
 - :100: GPA 4.0/4.0
+
+#### Bachelor
+- :woman_student:CMR Institute of Technology
+- :books: Information Technology 
+- :100: GPA 3.8/4.0
 
 
 ### Technical Skills
